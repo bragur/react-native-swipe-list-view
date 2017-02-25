@@ -5,10 +5,10 @@ import React, {
 	PropTypes,
 } from 'react';
 import {
-	ListView,
 	Text,
 	View,
 } from 'react-native';
+import { ListView } from 'realm/react-native'
 
 import SwipeRow from './SwipeRow';
 
